@@ -1,1 +1,1 @@
-# USN-keyboard-Schematics-diagram
+# USB-keyboard-Schematics-for-kicad
